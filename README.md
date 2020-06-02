@@ -1,2 +1,3 @@
 # Code-Refactor
-Code refactor homework assignment
+Code refactor for Horisen website
+
